@@ -1,0 +1,65 @@
+.logo {
+    height: 75px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+h1 {
+  color: white;
+  text-align: center;
+  font-family: "Avenir";
+}
+
+a {
+  color: rosybrown;
+  font-family: "Avenir";
+  font-weight: bold;
+}
+
+body {
+    color: white;
+    font-family: "Avenir";
+    background-color: #7E4743;
+    text-align: center;
+}
+
+.navigation-bar {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: floralwhite;
+    color: #7E4743;
+    text-align: right;
+    font-size: 11px;
+}
+
+.other-tables {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    color: white;
+}
+
+td {
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-bottom: 20px;
+    text-align: center;
+}
+
+th {
+    padding-left: 10px;
+    padding-right: 10px
+}
+
+.pic {
+    height: 100px;
+}
